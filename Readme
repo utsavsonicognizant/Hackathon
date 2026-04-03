@@ -1,0 +1,175 @@
+🌐 Coursera Automation Framework
+
+⚡ Built with Playwright + TypeScript | Designed for Scalability & Precision
+
+---
+
+✨ About the Project
+
+This is a robust, scalable test automation framework developed using Playwright with TypeScript to simulate real-world user interactions on the Coursera platform.
+
+💡 The framework is designed with a focus on:
+
+- Clean architecture
+- Maintainability
+- Reusability
+- Real-world test scenarios
+
+---
+
+🎯 What Makes This Project Special?
+
+🔹 Industry-standard Page Object Model (POM)
+🔹 Separate Locator Management System
+🔹 Integrated Allure Reporting for deep insights
+🔹 Built-in Retry & Debugging Mechanisms
+🔹 Data-driven testing using JSON
+🔹 Modular and scalable folder structure
+
+---
+
+🧠 Architecture Overview
+
+        Tests Layer
+            ↓
+        Pages Layer
+            ↓
+       Locators Layer
+            ↓
+        Utilities Layer
+
+💡 Each layer is independent, making the framework easy to maintain and extend.
+
+---
+
+📁 Project Structure
+
+Major_Project/
+│
+├── tests/                # Test scenarios
+├── Pages/                # Page classes (POM)
+├── Locators/             # Element selectors
+├── utils/                # Test data & helpers
+├── allure-results/       # Raw execution data
+├── allure-report/        # Detailed reports
+├── playwright-report/    # HTML report
+├── screenshots/          # Failure evidence
+├── test-results/         # Execution artifacts
+├── playwright.config.ts  # Central configuration
+├── package.json          # Dependencies
+
+---
+
+🚀 Key Capabilities
+
+🔍 Smart Search Automation
+
+- Automates course search
+- Applies filters dynamically
+- Extracts structured course data
+
+📊 Dynamic Data Extraction
+
+- Retrieves available filters
+- Counts categories like Language & Level
+
+🧪 Intelligent Form Validation
+
+- Validates error handling for invalid inputs
+- Verifies successful submissions
+- Captures evidence for both scenarios
+
+---
+
+⚙️ Execution Workflow
+
+1. Initialize configuration (playwright.config.ts)
+2. Launch browser instance
+3. Execute test cases from /tests
+4. Interact via Page Objects
+5. Fetch locators from /Locators
+6. Capture results, screenshots & traces
+7. Generate reports
+
+---
+
+▶️ Running the Framework
+
+npx playwright test
+
+---
+
+📊 Reporting System
+
+📄 HTML Report
+
+npx playwright show-report
+
+📊 Allure Report
+
+npx allure generate allure-results --clean -o allure-report
+npx allure open allure-report
+
+💡 Allure provides:
+
+- Step-level insights
+- Execution timeline
+- Visual analytics
+
+---
+
+🔁 Reliability Features
+
+- 🔄 Automatic retries (2 times)
+- 📷 Screenshot capture on failure
+- 🎥 Video recording enabled
+- 🧵 Trace viewer for debugging
+
+---
+
+🧩 Design Principles
+
+🔹 Separation of Concerns
+
+Each component (Tests, Pages, Locators) is isolated
+
+🔹 Reusability
+
+Common logic is centralized
+
+🔹 Scalability
+
+New tests can be added without breaking existing ones
+
+---
+
+📦 Dependencies
+
+- "@playwright/test" – Core automation engine
+- "allure-playwright" – Reporting integration
+- "luxon" – Date/time handling
+
+---
+
+💡 Why Playwright?
+
+- Fast execution 🚀
+- Auto-waiting features ⏳
+- Cross-browser support 🌐
+- Powerful debugging tools 🔍
+
+---
+
+👨‍💻 Author
+
+Yekkaloor Baba Sahil
+🚀 Passionate about building scalable automation systems
+💡 Focused on clean code, real-world solutions, and continuous learning
+
+---
+
+🌟 Final Thought
+
+«“Automation is not just about testing — it's about building confidence in systems.”»
+
+---

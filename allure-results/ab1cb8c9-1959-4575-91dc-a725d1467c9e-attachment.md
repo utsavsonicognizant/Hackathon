@@ -1,0 +1,257 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - navigation "Banner" [ref=e13]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "For Individuals" [ref=e16] [cursor=pointer]:
+            - /url: https://www.coursera.org/
+            - generic [ref=e17]: For Individuals
+        - listitem [ref=e18]:
+          - link "For Businesses" [ref=e19] [cursor=pointer]:
+            - /url: https://www.coursera.org/business
+            - generic [ref=e20]: For Businesses
+        - listitem [ref=e21]:
+          - link "For Universities" [ref=e22] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus
+            - generic [ref=e23]: For Universities
+        - listitem [ref=e24]:
+          - link "For Governments" [ref=e25] [cursor=pointer]:
+            - /url: https://www.coursera.org/government
+            - generic [ref=e26]: For Governments
+    - generic [ref=e31]:
+      - link "Coursera for Campus" [ref=e33] [cursor=pointer]:
+        - /url: /campus
+        - img "Coursera for Campus" [ref=e34]
+      - generic [ref=e35]:
+        - button "Why Coursera" [ref=e37] [cursor=pointer]:
+          - generic [ref=e38]:
+            - text: Why Coursera
+            - img [ref=e40]
+        - button "Solutions" [ref=e43] [cursor=pointer]:
+          - generic [ref=e44]:
+            - text: Solutions
+            - img [ref=e46]
+        - button "Resources" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50]:
+            - text: Resources
+            - img [ref=e52]
+        - link "Compare Plans" [ref=e55] [cursor=pointer]:
+          - /url: https://coursera.org/campus/compare-plans
+      - button "Contact Us" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: Contact Us
+  - main [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e68]:
+        - heading "Thank you for your interest in Coursera for Campus" [level=1] [ref=e69]
+        - generic [ref=e71]:
+          - paragraph [ref=e72]:
+            - strong [ref=e73]: We will get back to you soon!
+          - paragraph [ref=e74]: We look forward to sharing more information with you shortly. In the meantime, please explore a few examples of how Coursera for Campus is preparing learners for jobs of the future.
+      - generic [ref=e80]:
+        - heading "Explore more resources" [level=2] [ref=e83]
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - img "Global Skills Report 2025" [ref=e88]
+            - generic [ref=e89]:
+              - paragraph
+              - heading "Global Skills Report 2025" [level=3] [ref=e90]
+              - paragraph [ref=e91]: The Global Skills Report 2025 draws on data from over 170M+ learners to identify critical skills across 100+ countries in six regions.
+            - link "Get report" [ref=e92] [cursor=pointer]:
+              - /url: https://www.coursera.org/skills-reports/global
+              - generic [ref=e93]:
+                - text: Get report
+                - img [ref=e95]
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - paragraph [ref=e99]: Report
+              - heading "Job Skills of 2024 Report" [level=3] [ref=e100]
+              - paragraph [ref=e101]: Discover the fastest-growing job skills for businesses, governments, and higher education institutions.
+            - link "Get report" [ref=e102] [cursor=pointer]:
+              - /url: https://www.coursera.org/skills-reports/job-skills/
+              - generic [ref=e103]:
+                - text: Get report
+                - img [ref=e105]
+          - generic [ref=e107]:
+            - img "micro-creds" [ref=e109]
+            - generic [ref=e110]:
+              - paragraph [ref=e111]: REPORT
+              - heading "Advancing Higher Education with Industry Micro-Credentials" [level=3] [ref=e112]
+              - paragraph [ref=e113]: Get the report to explore how Professional Certificates connect directly to employment outcomes and complement degree programs.
+            - link "Get report" [ref=e114] [cursor=pointer]:
+              - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials
+              - generic [ref=e115]:
+                - text: Get report
+                - img [ref=e117]
+      - generic [ref=e126]:
+        - heading "Search our catalog of world-class content" [level=2] [ref=e127]
+        - generic [ref=e130]:
+          - generic [ref=e133]:
+            - img [ref=e135]
+            - textbox "Search query" [ref=e137]:
+              - /placeholder: e.g. Data Science
+            - group
+          - generic [ref=e140]:
+            - text: Popular skills
+            - radiogroup "Popular skills" [ref=e141]:
+              - radio "Data Analysis" [ref=e142] [cursor=pointer]:
+                - generic [ref=e144]: Data Analysis
+              - radio "Generative AI" [ref=e145] [cursor=pointer]:
+                - generic [ref=e147]: Generative AI
+              - radio "Machine Learning" [ref=e148] [cursor=pointer]:
+                - generic [ref=e150]: Machine Learning
+              - radio "Python Programming" [ref=e151] [cursor=pointer]:
+                - generic [ref=e153]: Python Programming
+              - radio "Cloud Computing" [ref=e154] [cursor=pointer]:
+                - generic [ref=e156]: Cloud Computing
+              - radio "Project Management" [ref=e157] [cursor=pointer]:
+                - generic [ref=e159]: Project Management
+  - contentinfo [ref=e160]:
+    - contentinfo [ref=e161]:
+      - generic [ref=e163]:
+        - generic [ref=e166]:
+          - heading "Coursera" [level=3] [ref=e167]
+          - list [ref=e169]:
+            - listitem [ref=e170]:
+              - link "About" [ref=e171] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e172]:
+              - link "What We Offer" [ref=e173] [cursor=pointer]:
+                - /url: /about/how-coursera-works/
+            - listitem [ref=e174]:
+              - link "Leadership" [ref=e175] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/leadership
+            - listitem [ref=e176]:
+              - link "Careers" [ref=e177] [cursor=pointer]:
+                - /url: https://careers.coursera.com/
+            - listitem [ref=e178]:
+              - link "Catalog" [ref=e179] [cursor=pointer]:
+                - /url: /browse
+            - listitem [ref=e180]:
+              - link "Coursera Plus" [ref=e181] [cursor=pointer]:
+                - /url: /courseraplus
+            - listitem [ref=e182]:
+              - link "Professional Certificates" [ref=e183] [cursor=pointer]:
+                - /url: /professional-certificates
+            - listitem [ref=e184]:
+              - link "MasterTrack® Certificates" [ref=e185] [cursor=pointer]:
+                - /url: /mastertrack
+            - listitem [ref=e186]:
+              - link "Degrees" [ref=e187] [cursor=pointer]:
+                - /url: /degrees
+            - listitem [ref=e188]:
+              - link "For Enterprise" [ref=e189] [cursor=pointer]:
+                - /url: /business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e190]:
+              - link "For Government" [ref=e191] [cursor=pointer]:
+                - /url: /government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e192]:
+              - link "For Campus" [ref=e193] [cursor=pointer]:
+                - /url: /campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e194]:
+              - link "Become a Partner" [ref=e195] [cursor=pointer]:
+                - /url: https://partnerships.coursera.org/?utm_medium=coursera&utm_source=partnerships&utm_campaign=website&utm_content=corp-to-home-footer-become-a-partner
+            - listitem [ref=e196]:
+              - link "Social Impact" [ref=e197] [cursor=pointer]:
+                - /url: /social-impact
+        - generic [ref=e200]:
+          - heading "Community" [level=3] [ref=e201]
+          - list [ref=e203]:
+            - listitem [ref=e204]:
+              - link "Learners" [ref=e205] [cursor=pointer]:
+                - /url: https://www.coursera.community
+            - listitem [ref=e206]:
+              - link "Partners" [ref=e207] [cursor=pointer]:
+                - /url: https://www.coursera.org/partners
+            - listitem [ref=e208]:
+              - link "Beta Testers" [ref=e209] [cursor=pointer]:
+                - /url: https://www.coursera.support/s/article/360000152926-Become-a-Coursera-beta-tester
+            - listitem [ref=e210]:
+              - link "Blog" [ref=e211] [cursor=pointer]:
+                - /url: https://blog.coursera.org
+            - listitem [ref=e212]:
+              - link "The Coursera Podcast" [ref=e213] [cursor=pointer]:
+                - /url: https://open.spotify.com/show/58M36bneU7REOofdPZxe6A
+            - listitem [ref=e214]:
+              - link "Tech Blog" [ref=e215] [cursor=pointer]:
+                - /url: https://medium.com/coursera-engineering
+        - generic [ref=e218]:
+          - heading "More" [level=3] [ref=e219]
+          - list [ref=e221]:
+            - listitem [ref=e222]:
+              - link "Press" [ref=e223] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/press
+            - listitem [ref=e224]:
+              - link "Investors" [ref=e225] [cursor=pointer]:
+                - /url: https://investor.coursera.com
+            - listitem [ref=e226]:
+              - link "Terms" [ref=e227] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/terms
+            - listitem [ref=e228]:
+              - link "Privacy" [ref=e229] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/privacy
+            - listitem [ref=e230]:
+              - link "Help" [ref=e231] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc
+            - listitem [ref=e232]:
+              - link "Accessibility" [ref=e233] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc/articles/360050668591-Accessibility-Statement
+            - listitem [ref=e234]:
+              - link "Contact" [ref=e235] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/contact
+            - listitem [ref=e236]:
+              - link "Articles" [ref=e237] [cursor=pointer]:
+                - /url: https://www.coursera.org/articles
+            - listitem [ref=e238]:
+              - link "Directory" [ref=e239] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e240]:
+              - link "Affiliates" [ref=e241] [cursor=pointer]:
+                - /url: /about/affiliates
+            - listitem [ref=e242]:
+              - link "Modern Slavery Statement" [ref=e243] [cursor=pointer]:
+                - /url: https://coursera_assets.s3.amazonaws.com/footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf
+            - listitem [ref=e244]:
+              - link "Cookies Preference Center" [ref=e245] [cursor=pointer]:
+                - /url: /about/cookies-manage
+        - generic [ref=e248]:
+          - heading "Mobile App" [level=3] [ref=e249]
+          - generic [ref=e250]:
+            - link "Download on the App Store":
+              - /url: https://itunes.apple.com/app/apple-store/id736535961?pt=2334150&ct=Coursera%20Web%20Promo%20Banner&mt=8
+              - img "Download on the App Store" [ref=e252] [cursor=pointer]
+            - link "Get it on Google Play":
+              - /url: http://play.google.com/store/apps/details?id=org.coursera.android
+              - img "Get it on Google Play" [ref=e254] [cursor=pointer]
+          - img "Logo of Certified B Corporation" [ref=e257]
+        - generic [ref=e258]:
+          - generic [ref=e260]: © 2026 Coursera Inc. All rights reserved.
+          - list [ref=e262]:
+            - listitem [ref=e263]:
+              - link "Coursera Facebook":
+                - /url: https://www.facebook.com/Coursera
+                - generic:
+                  - img "Coursera Facebook"
+            - listitem [ref=e264]:
+              - link "Coursera LinkedIn":
+                - /url: https://www.linkedin.com/company/coursera
+                - generic:
+                  - img "Coursera LinkedIn"
+            - listitem [ref=e265]:
+              - link "Coursera Twitter":
+                - /url: https://twitter.com/coursera
+                - generic:
+                  - img "Coursera Twitter"
+            - listitem [ref=e266]:
+              - link "Coursera YouTube":
+                - /url: https://www.youtube.com/user/coursera
+                - generic:
+                  - img "Coursera YouTube"
+            - listitem [ref=e267]:
+              - link "Coursera Instagram":
+                - /url: https://www.instagram.com/coursera/
+                - generic:
+                  - img "Coursera Instagram"
+```

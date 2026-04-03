@@ -1,0 +1,741 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - navigation "Banner" [ref=e13]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "For Individuals" [ref=e16] [cursor=pointer]:
+            - /url: https://www.coursera.org/
+            - generic [ref=e17]: For Individuals
+        - listitem [ref=e18]:
+          - link "For Businesses" [ref=e19] [cursor=pointer]:
+            - /url: https://www.coursera.org/business
+            - generic [ref=e20]: For Businesses
+        - listitem [ref=e21]:
+          - link "For Universities" [ref=e22] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus
+            - generic [ref=e23]: For Universities
+        - listitem [ref=e24]:
+          - link "For Governments" [ref=e25] [cursor=pointer]:
+            - /url: https://www.coursera.org/government
+            - generic [ref=e26]: For Governments
+    - generic [ref=e31]:
+      - link "Coursera for Campus" [ref=e33] [cursor=pointer]:
+        - /url: /campus
+        - img "Coursera for Campus" [ref=e34]
+      - generic [ref=e35]:
+        - button "Why Coursera" [ref=e37] [cursor=pointer]:
+          - generic [ref=e38]:
+            - text: Why Coursera
+            - img [ref=e40]
+        - button "Solutions" [ref=e43] [cursor=pointer]:
+          - generic [ref=e44]:
+            - text: Solutions
+            - img [ref=e46]
+        - button "Resources" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50]:
+            - text: Resources
+            - img [ref=e52]
+        - link "Compare Plans" [ref=e55] [cursor=pointer]:
+          - /url: https://coursera.org/campus/compare-plans
+      - button "Contact Us" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: Contact Us
+  - main [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e63]:
+        - generic [ref=e68]:
+          - heading "Empower employability with online learning for universities" [level=1] [ref=e69]
+          - paragraph [ref=e72]: Equip students with the most in-demand skills and prepare them for job success.
+          - generic [ref=e73]:
+            - link "Contact us" [ref=e75] [cursor=pointer]:
+              - /url: https://www.coursera.org/campus/learn-more
+              - generic [ref=e76]: Contact us
+            - paragraph [ref=e79]:
+              - text: See your options,
+              - link "compare plans" [ref=e80] [cursor=pointer]:
+                - /url: https://www.coursera.org/campus/compare-plans
+                - paragraph [ref=e81]:
+                  - text: compare plans
+                  - img [ref=e82]
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e93]: 76%
+            - generic [ref=e94]: Students are 76% more likely to enroll in a degree program that offers industry micro-credentials
+            - link "[1]" [ref=e96] [cursor=pointer]:
+              - /url: "#footnote-1"
+          - generic [ref=e97]:
+            - generic [ref=e99]: 88%
+            - generic [ref=e100]: of employers believe that Professional Certificates strengthen a candidate’s job application
+            - link "[2]" [ref=e102] [cursor=pointer]:
+              - /url: "#footnote-2"
+          - generic [ref=e103]:
+            - generic [ref=e105]: 90%
+            - generic [ref=e106]: of students agree that a Professional Certificate will help them secure a job
+            - link "[3]" [ref=e108] [cursor=pointer]:
+              - /url: "#footnote-3"
+      - generic [ref=e114]:
+        - heading "Offer students 10,600+ courses from 350+ leading universities and industry partners" [level=2] [ref=e116]
+        - img "Thirty logos from well known companies & universities" [ref=e119]
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - paragraph [ref=e127]: Career Academy
+          - heading "Prepare your students for in-demand jobs" [level=2] [ref=e128]
+          - generic [ref=e130]:
+            - paragraph [ref=e131]: Strengthen student employability with skills training from the world's leading companies.
+            - paragraph [ref=e132]: "With Career Academy, enable your students to:"
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - img [ref=e135]
+              - generic [ref=e137]: Earn a Professional Certificate designed to get them job-ready
+            - listitem [ref=e138]:
+              - img [ref=e139]
+              - generic [ref=e141]: Gain common job skills employers demand
+            - listitem [ref=e142]:
+              - img [ref=e143]
+              - generic [ref=e145]: Showcase skill mastery with a portfolio of work
+            - listitem [ref=e146]:
+              - img [ref=e147]
+              - generic [ref=e149]: Explore a range of in-demand roles across industries
+          - link "Learn more about Career Academy" [ref=e152] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus/career-academy
+            - generic [ref=e153]:
+              - text: Learn more about Career Academy
+              - img [ref=e155]
+        - img "C4C Career Academy" [ref=e159]
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - paragraph [ref=e167]: Professional Certificates
+          - heading "Learn why students and employers value Professional Certificates" [level=2] [ref=e168]
+          - generic [ref=e170]:
+            - paragraph [ref=e171]: A survey of 5,000 students and employers in 11 countries finds that the majority value Professional Certificates for driving employment outcomes. Professional Certificates help students demonstrate to employers that they are qualified and job-ready.
+            - paragraph [ref=e172]: Use these insights to enhance your curriculum, and strengthen employment outcomes.
+          - link "Get report" [ref=e175] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials
+            - generic [ref=e176]:
+              - text: Get report
+              - img [ref=e178]
+        - generic [ref=e182]:
+          - img "Micro-credentials Video Thumb" [ref=e185]
+          - button [ref=e186] [cursor=pointer]:
+            - img [ref=e187]
+      - generic [ref=e196]:
+        - generic [ref=e198]:
+          - heading "Expand your curriculum with a university learning platform that empowers faculty" [level=2] [ref=e199]
+          - paragraph [ref=e200]: Deliver practical, job-relevant learning experiences with professional content and courses from university and industry experts. Strengthen your university’s programs with a higher education learning platform that bridges academics and employability.
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - img "Icon Website" [ref=e204]
+            - paragraph [ref=e205]: World-Class Content
+            - paragraph [ref=e206]: Connect students to a wide range of content from hundreds of industry leaders and universities.
+          - generic [ref=e207]:
+            - img "Guided Projects icon" [ref=e208]
+            - paragraph [ref=e209]: Guided Projects
+            - paragraph [ref=e210]: Give students hands-on projects and job-relevant experiences through a higher education learning platform that prepares them for career success.
+          - generic [ref=e211]:
+            - img "World-Class Content" [ref=e212]
+            - paragraph [ref=e213]: Professional Certificates
+            - paragraph [ref=e214]: Help your students grow job confidence, apply learning, and hone critical skills in high-growth fields.
+          - generic [ref=e215]:
+            - img "Integration icon" [ref=e216]
+            - paragraph [ref=e217]: LMS Integration
+            - paragraph [ref=e218]: Simplify teaching and learning by connecting Coursera to your learning management system for higher education for a seamless digital experience.
+      - generic [ref=e224]:
+        - heading "Join colleges and universities worldwide that choose Coursera for Campus" [level=2] [ref=e227]
+        - list [ref=e230]:
+          - listitem [ref=e231]:
+            - img "Tecnológico de Monterrey" [ref=e232]
+          - listitem [ref=e233]:
+            - img "University of Michigan" [ref=e234]
+          - listitem [ref=e235]:
+            - img "Imperial College London" [ref=e236]
+          - listitem [ref=e237]:
+            - img "The University of Melbourne" [ref=e238]
+          - listitem [ref=e239]:
+            - img "Manipal University" [ref=e240]
+          - listitem [ref=e241]:
+            - img "NMIMS" [ref=e242]
+      - generic [ref=e250]:
+        - heading "Here’s how innovative universities are using Coursera for Campus" [level=2] [ref=e251]
+        - paragraph [ref=e252]: “ Coursera gives us confidence that we’re providing our students high-quality education that furthers their career opportunities. Without Coursera, we couldn’t become ‘University 4.0,’ because we couldn’t develop courses so quickly on our own.
+        - generic [ref=e253]:
+          - img "International Information Technology University (IITU)" [ref=e255]
+          - generic [ref=e256]:
+            - generic [ref=e257]: Yevgenia D.
+            - generic [ref=e258]: Vice-Rector for Science and International Collaboration
+            - generic [ref=e259]: International Information Technology University (IITU)
+      - generic [ref=e265]:
+        - generic [ref=e267]:
+          - generic [ref=e271]:
+            - heading "Get in touch with our sales team" [level=2] [ref=e272]
+            - paragraph [ref=e275]: "Learn more about how you can:"
+            - list [ref=e276]:
+              - listitem [ref=e277]:
+                - img [ref=e278]
+                - generic [ref=e280]: Connect curriculum to careers
+              - listitem [ref=e281]:
+                - img [ref=e282]
+                - generic [ref=e284]: Strengthen employment outcomes
+              - listitem [ref=e285]:
+                - img [ref=e286]
+                - generic [ref=e288]: Enhance learning experiences
+          - generic [ref=e291]:
+            - heading "Join the innovative colleges and universities globally that choose Coursera for their students" [level=2] [ref=e294]
+            - list [ref=e297]:
+              - listitem [ref=e298]:
+                - img "Tecnológico de Monterrey" [ref=e299]
+              - listitem [ref=e300]:
+                - img "University of Michigan" [ref=e301]
+              - listitem [ref=e302]:
+                - img "Imperial College London" [ref=e303]
+              - listitem [ref=e304]:
+                - img "The University of Melbourne" [ref=e305]
+              - listitem [ref=e306]:
+                - img "Manipal University" [ref=e307]
+              - listitem [ref=e308]:
+                - img "NMIMS" [ref=e309]
+          - generic [ref=e314]:
+            - paragraph [ref=e315]: “No one professor or university can offer the breadth of choices students have with Coursera. And since they can find courses relevant to their industry, Coursera is a great bridge between the classroom and the workplace.”
+            - generic [ref=e316]:
+              - img "Ivey Business School" [ref=e318]
+              - generic [ref=e319]:
+                - generic [ref=e320]: Lameck O.
+                - generic [ref=e321]: Lecturer and IT project manager
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - generic [ref=e331]:
+              - generic: First Name
+              - textbox "First Name" [ref=e332]: Test
+            - generic [ref=e334]:
+              - generic: Last Name
+              - textbox "Last Name" [ref=e335]: User
+          - generic [ref=e336]:
+            - generic [ref=e338]:
+              - generic: Work Email Address
+              - textbox "Work Email Address" [ref=e339]: invalid-email@
+            - generic [ref=e341]:
+              - generic: Phone Number
+              - textbox "Phone Number" [ref=e342]:
+                - /placeholder: Country Code + Phone Number
+                - text: "1234567890"
+          - generic [ref=e343]:
+            - generic [ref=e345]:
+              - generic: Institution Type
+              - combobox "Institution Type Institution Type" [ref=e346] [cursor=pointer]:
+                - option "Select..."
+                - option "University/4 Year College" [selected]
+                - option "2 Year College"
+                - option "Graduate or Professional School"
+                - option "Ministry of Education"
+                - option "Other"
+            - generic [ref=e348]:
+              - generic: Institution Name
+              - textbox "Institution Name" [active] [ref=e349]: Test University
+          - generic [ref=e350]:
+            - generic [ref=e352]:
+              - generic: Job Role
+              - combobox "Job Role" [ref=e353] [cursor=pointer]:
+                - option "Select..."
+                - option "President/Provost"
+                - option "Chancellor/Rector"
+                - option "Vice-Chancellor/Vice-Rector"
+                - option "Vice-President/Vice-Provost"
+                - option "Registrar"
+                - option "CEO"
+                - option "COO/CIO"
+                - option "Dean"
+                - option "Department Head"
+                - option "Director"
+                - option "Professor" [selected]
+                - option "Student"
+            - generic [ref=e355]:
+              - generic: Department
+              - combobox "Department" [ref=e356] [cursor=pointer]:
+                - option "Select..."
+                - option "Academic Affairs"
+                - option "Career Services"
+                - option "Continuing Education"
+                - option "Enrollment Management"
+                - option "Executive Leadership"
+                - option "International"
+                - option "Strategic Planning"
+                - option "Student Affairs"
+                - option "Teaching/Faculty/Research" [selected]
+                - option "Other"
+          - generic [ref=e357]:
+            - generic [ref=e359]:
+              - generic: Which best describes your needs?
+              - combobox "Which best describes your needs?" [ref=e360] [cursor=pointer]:
+                - option "Select..."
+                - option "Get in touch with sales" [selected]
+                - option "Existing customer support"
+                - option "Learner Support"
+                - option "Courses for myself"
+                - option "Other"
+            - generic [ref=e362]:
+              - generic: Expected number of learners
+              - combobox "Expected number of learners" [ref=e363] [cursor=pointer]:
+                - option "Select..." [selected]
+                - option "1-4"
+                - option "5-25"
+                - option "26-100"
+                - option "101-500"
+                - option "501-1000"
+                - option "1001-5000"
+                - option "5001+"
+          - generic [ref=e366]:
+            - generic: Country
+            - combobox "Country" [ref=e367] [cursor=pointer]:
+              - option "Country" [selected]
+              - option "United States"
+              - option "Canada"
+              - option "Afghanistan"
+              - option "Åland Islands"
+              - option "Albania"
+              - option "Algeria"
+              - option "American Samoa"
+              - option "Andorra"
+              - option "Angola"
+              - option "Anguilla"
+              - option "Antarctica"
+              - option "Antigua and Barbuda"
+              - option "Argentina"
+              - option "Armenia"
+              - option "Aruba"
+              - option "Australia"
+              - option "Austria"
+              - option "Azerbaijan"
+              - option "Bahamas"
+              - option "Bahrain"
+              - option "Bangladesh"
+              - option "Barbados"
+              - option "Belarus"
+              - option "Belgium"
+              - option "Belize"
+              - option "Benin"
+              - option "Bermuda"
+              - option "Bhutan"
+              - option "Bolivia, Plurinational State of"
+              - option "Bonaire, Sint Eustatius and Saba"
+              - option "Bosnia and Herzegovina"
+              - option "Botswana"
+              - option "Bouvet Island"
+              - option "Brazil"
+              - option "British Indian Ocean Territory"
+              - option "Brunei Darussalam"
+              - option "Bulgaria"
+              - option "Burkina Faso"
+              - option "Burundi"
+              - option "Cambodia"
+              - option "Cameroon"
+              - option "Canada"
+              - option "Cape Verde"
+              - option "Cayman Islands"
+              - option "Central African Republic"
+              - option "Chad"
+              - option "Chile"
+              - option "China"
+              - option "Christmas Island"
+              - option "Cocos (Keeling) Islands"
+              - option "Colombia"
+              - option "Comoros"
+              - option "Congo, the Democratic Republic of the"
+              - option "Congo"
+              - option "Cook Islands"
+              - option "Costa Rica"
+              - option "Côte d'Ivoire"
+              - option "Croatia"
+              - option "Cuba"
+              - option "Curaçao"
+              - option "Cyprus"
+              - option "Czech Republic"
+              - option "Denmark"
+              - option "Djibouti"
+              - option "Dominica"
+              - option "Dominican Republic"
+              - option "Ecuador"
+              - option "Egypt"
+              - option "El Salvador"
+              - option "Equatorial Guinea"
+              - option "Eritrea"
+              - option "Estonia"
+              - option "Ethiopia"
+              - option "Falkland Islands (Malvinas)"
+              - option "Faroe Islands"
+              - option "Fiji"
+              - option "Finland"
+              - option "France"
+              - option "French Guiana"
+              - option "French Polynesia"
+              - option "French Southern Territories"
+              - option "Gabon"
+              - option "Gambia"
+              - option "Georgia"
+              - option "Germany"
+              - option "Ghana"
+              - option "Gibraltar"
+              - option "Greece"
+              - option "Greenland"
+              - option "Grenada"
+              - option "Guadeloupe"
+              - option "Guam"
+              - option "Guatemala"
+              - option "Guernsey"
+              - option "Guinea"
+              - option "Guinea-Bissau"
+              - option "Guyana"
+              - option "Haiti"
+              - option "Heard Island and McDonald Islands"
+              - option "Holy See (Vatican City State)"
+              - option "Honduras"
+              - option "Hong Kong"
+              - option "Hungary"
+              - option "Iceland"
+              - option "India"
+              - option "Indonesia"
+              - option "Iran, Islamic Republic of"
+              - option "Iraq"
+              - option "Ireland"
+              - option "Isle of Man"
+              - option "Israel"
+              - option "Italy"
+              - option "Jamaica"
+              - option "Japan"
+              - option "Jersey"
+              - option "Jordan"
+              - option "Kazakhstan"
+              - option "Kenya"
+              - option "Kiribati"
+              - option "Korea, Democratic People's Republic of"
+              - option "Korea, Republic of"
+              - option "Kuwait"
+              - option "Kyrgyzstan"
+              - option "Lao People's Democratic Republic"
+              - option "Latvia"
+              - option "Lebanon"
+              - option "Lesotho"
+              - option "Liberia"
+              - option "Libya"
+              - option "Liechtenstein"
+              - option "Lithuania"
+              - option "Luxembourg"
+              - option "Macao"
+              - option "Macedonia, the former Yugoslav Republic of"
+              - option "Madagascar"
+              - option "Malawi"
+              - option "Malaysia"
+              - option "Maldives"
+              - option "Mali"
+              - option "Malta"
+              - option "Marshall Islands"
+              - option "Martinique"
+              - option "Mauritania"
+              - option "Mauritius"
+              - option "Mayotte"
+              - option "Mexico"
+              - option "Micronesia, Federated States of"
+              - option "Moldova, Republic of"
+              - option "Monaco"
+              - option "Mongolia"
+              - option "Montenegro"
+              - option "Montserrat"
+              - option "Morocco"
+              - option "Mozambique"
+              - option "Myanmar"
+              - option "Namibia"
+              - option "Nauru"
+              - option "Nepal"
+              - option "Netherlands"
+              - option "New Caledonia"
+              - option "New Zealand"
+              - option "Nicaragua"
+              - option "Niger"
+              - option "Nigeria"
+              - option "Niue"
+              - option "Norfolk Island"
+              - option "Northern Mariana Islands"
+              - option "Norway"
+              - option "Oman"
+              - option "Pakistan"
+              - option "Palau"
+              - option "Palestinian Territory, Occupied"
+              - option "Panama"
+              - option "Papua New Guinea"
+              - option "Paraguay"
+              - option "Peru"
+              - option "Philippines"
+              - option "Pitcairn"
+              - option "Poland"
+              - option "Portugal"
+              - option "Puerto Rico"
+              - option "Qatar"
+              - option "Réunion"
+              - option "Romania"
+              - option "Russian Federation"
+              - option "Rwanda"
+              - option "Saint Barthélemy"
+              - option "Saint Helena, Ascension and Tristan da Cunha"
+              - option "Saint Kitts and Nevis"
+              - option "Saint Lucia"
+              - option "Saint Martin (French part)"
+              - option "Saint Pierre and Miquelon"
+              - option "Saint Vincent and the Grenadines"
+              - option "Samoa"
+              - option "San Marino"
+              - option "Sao Tome and Principe"
+              - option "Saudi Arabia"
+              - option "Senegal"
+              - option "Serbia"
+              - option "Seychelles"
+              - option "Sierra Leone"
+              - option "Singapore"
+              - option "Sint Maarten (Dutch part)"
+              - option "Slovakia"
+              - option "Slovenia"
+              - option "Solomon Islands"
+              - option "Somalia"
+              - option "South Africa"
+              - option "South Georgia and the South Sandwich Islands"
+              - option "South Sudan"
+              - option "Spain"
+              - option "Sri Lanka"
+              - option "Sudan"
+              - option "Suriname"
+              - option "Svalbard and Jan Mayen"
+              - option "Swaziland"
+              - option "Sweden"
+              - option "Switzerland"
+              - option "Syrian Arab Republic"
+              - option "Taiwan"
+              - option "Tajikistan"
+              - option "Tanzania, United Republic of"
+              - option "Thailand"
+              - option "Timor-Leste"
+              - option "Togo"
+              - option "Tokelau"
+              - option "Tonga"
+              - option "Trinidad and Tobago"
+              - option "Tunisia"
+              - option "Turkey"
+              - option "Turkmenistan"
+              - option "Turks and Caicos Islands"
+              - option "Tuvalu"
+              - option "Uganda"
+              - option "Ukraine"
+              - option "United Arab Emirates"
+              - option "United Kingdom"
+              - option "United States"
+              - option "United States Minor Outlying Islands"
+              - option "Uruguay"
+              - option "Uzbekistan"
+              - option "Vanuatu"
+              - option "Venezuela, Bolivarian Republic of"
+              - option "Viet Nam"
+              - option "Virgin Islands, British"
+              - option "Virgin Islands, U.S."
+              - option "Wallis and Futuna"
+              - option "Western Sahara"
+              - option "Yemen"
+              - option "Zambia"
+              - option "Zimbabwe"
+          - paragraph [ref=e372]:
+            - text: By submitting your info in the form above, you agree to our
+            - link "Terms of Use" [ref=e373] [cursor=pointer]:
+              - /url: https://www.coursera.org/about/terms
+            - text: and
+            - link "Privacy Notice" [ref=e374] [cursor=pointer]:
+              - /url: https://www.coursera.org/about/privacy
+            - text: . We may use this info to contact you and/or use data from third parties to personalize your experience.
+          - button "Submit" [ref=e377] [cursor=pointer]
+          - group
+      - generic [ref=e385]:
+        - 'link "The Micro-Credentials Impact Report 2025: Insights from Students and Employers Explore global data on career and academic outcomes, credit-bearing and GenAI credentials, and more. Get report" [ref=e386] [cursor=pointer]':
+          - /url: https://www.coursera.org/enterprise/resources/ebooks/micro-credentials-report-2025
+          - generic [ref=e388]:
+            - 'heading "The Micro-Credentials Impact Report 2025: Insights from Students and Employers" [level=2] [ref=e389]'
+            - paragraph [ref=e390]: Explore global data on career and academic outcomes, credit-bearing and GenAI credentials, and more.
+            - button "Get report" [ref=e391]:
+              - generic [ref=e392]:
+                - text: Get report
+                - img [ref=e394]
+        - link "Global Skills Report 2025 Discover the critical skills people need to thrive in a changing world. Explore insights drawn from 170M+ Coursera learners and key economic indices. Learn More" [ref=e396] [cursor=pointer]:
+          - /url: https://www.coursera.org/skills-reports/global
+          - generic [ref=e398]:
+            - heading "Global Skills Report 2025" [level=2] [ref=e399]
+            - paragraph [ref=e400]: Discover the critical skills people need to thrive in a changing world. Explore insights drawn from 170M+ Coursera learners and key economic indices.
+            - button "Learn More" [ref=e401]:
+              - generic [ref=e402]:
+                - text: Learn More
+                - img [ref=e404]
+        - link "EU AI Act Playbook Ensure your organisation is compliant with Article 4 of the EU AI Act and gain actionable insights to ensure teams use AI safely and ethically. Learn More" [ref=e406] [cursor=pointer]:
+          - /url: https://www.coursera.org/enterprise/resources/ebook/eu-ai-act-playbook
+          - generic [ref=e408]:
+            - heading "EU AI Act Playbook" [level=2] [ref=e409]
+            - paragraph [ref=e410]: Ensure your organisation is compliant with Article 4 of the EU AI Act and gain actionable insights to ensure teams use AI safely and ethically.
+            - button "Learn More" [ref=e411]:
+              - generic [ref=e412]:
+                - text: Learn More
+                - img [ref=e414]
+  - contentinfo [ref=e416]:
+    - contentinfo [ref=e417]:
+      - generic [ref=e419]:
+        - generic [ref=e422]:
+          - heading "Coursera" [level=3] [ref=e423]
+          - list [ref=e425]:
+            - listitem [ref=e426]:
+              - link "About" [ref=e427] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e428]:
+              - link "What We Offer" [ref=e429] [cursor=pointer]:
+                - /url: /about/how-coursera-works/
+            - listitem [ref=e430]:
+              - link "Leadership" [ref=e431] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/leadership
+            - listitem [ref=e432]:
+              - link "Careers" [ref=e433] [cursor=pointer]:
+                - /url: https://careers.coursera.com/
+            - listitem [ref=e434]:
+              - link "Catalog" [ref=e435] [cursor=pointer]:
+                - /url: /browse
+            - listitem [ref=e436]:
+              - link "Coursera Plus" [ref=e437] [cursor=pointer]:
+                - /url: /courseraplus
+            - listitem [ref=e438]:
+              - link "Professional Certificates" [ref=e439] [cursor=pointer]:
+                - /url: /professional-certificates
+            - listitem [ref=e440]:
+              - link "MasterTrack® Certificates" [ref=e441] [cursor=pointer]:
+                - /url: /mastertrack
+            - listitem [ref=e442]:
+              - link "Degrees" [ref=e443] [cursor=pointer]:
+                - /url: /degrees
+            - listitem [ref=e444]:
+              - link "For Enterprise" [ref=e445] [cursor=pointer]:
+                - /url: /business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e446]:
+              - link "For Government" [ref=e447] [cursor=pointer]:
+                - /url: /government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e448]:
+              - link "For Campus" [ref=e449] [cursor=pointer]:
+                - /url: /campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e450]:
+              - link "Become a Partner" [ref=e451] [cursor=pointer]:
+                - /url: https://partnerships.coursera.org/?utm_medium=coursera&utm_source=partnerships&utm_campaign=website&utm_content=corp-to-home-footer-become-a-partner
+            - listitem [ref=e452]:
+              - link "Social Impact" [ref=e453] [cursor=pointer]:
+                - /url: /social-impact
+        - generic [ref=e456]:
+          - heading "Community" [level=3] [ref=e457]
+          - list [ref=e459]:
+            - listitem [ref=e460]:
+              - link "Learners" [ref=e461] [cursor=pointer]:
+                - /url: https://www.coursera.community
+            - listitem [ref=e462]:
+              - link "Partners" [ref=e463] [cursor=pointer]:
+                - /url: https://www.coursera.org/partners
+            - listitem [ref=e464]:
+              - link "Beta Testers" [ref=e465] [cursor=pointer]:
+                - /url: https://www.coursera.support/s/article/360000152926-Become-a-Coursera-beta-tester
+            - listitem [ref=e466]:
+              - link "Blog" [ref=e467] [cursor=pointer]:
+                - /url: https://blog.coursera.org
+            - listitem [ref=e468]:
+              - link "The Coursera Podcast" [ref=e469] [cursor=pointer]:
+                - /url: https://open.spotify.com/show/58M36bneU7REOofdPZxe6A
+            - listitem [ref=e470]:
+              - link "Tech Blog" [ref=e471] [cursor=pointer]:
+                - /url: https://medium.com/coursera-engineering
+        - generic [ref=e474]:
+          - heading "More" [level=3] [ref=e475]
+          - list [ref=e477]:
+            - listitem [ref=e478]:
+              - link "Press" [ref=e479] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/press
+            - listitem [ref=e480]:
+              - link "Investors" [ref=e481] [cursor=pointer]:
+                - /url: https://investor.coursera.com
+            - listitem [ref=e482]:
+              - link "Terms" [ref=e483] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/terms
+            - listitem [ref=e484]:
+              - link "Privacy" [ref=e485] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/privacy
+            - listitem [ref=e486]:
+              - link "Help" [ref=e487] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc
+            - listitem [ref=e488]:
+              - link "Accessibility" [ref=e489] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc/articles/360050668591-Accessibility-Statement
+            - listitem [ref=e490]:
+              - link "Contact" [ref=e491] [cursor=pointer]:
+                - /url: https://www.coursera.org/about/contact
+            - listitem [ref=e492]:
+              - link "Articles" [ref=e493] [cursor=pointer]:
+                - /url: https://www.coursera.org/articles
+            - listitem [ref=e494]:
+              - link "Directory" [ref=e495] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e496]:
+              - link "Affiliates" [ref=e497] [cursor=pointer]:
+                - /url: /about/affiliates
+            - listitem [ref=e498]:
+              - link "Modern Slavery Statement" [ref=e499] [cursor=pointer]:
+                - /url: https://coursera_assets.s3.amazonaws.com/footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf
+            - listitem [ref=e500]:
+              - link "Cookies Preference Center" [ref=e501] [cursor=pointer]:
+                - /url: /about/cookies-manage
+        - generic [ref=e504]:
+          - heading "Mobile App" [level=3] [ref=e505]
+          - generic [ref=e506]:
+            - link "Download on the App Store":
+              - /url: https://itunes.apple.com/app/apple-store/id736535961?pt=2334150&ct=Coursera%20Web%20Promo%20Banner&mt=8
+              - img "Download on the App Store" [ref=e508] [cursor=pointer]
+            - link "Get it on Google Play":
+              - /url: http://play.google.com/store/apps/details?id=org.coursera.android
+              - img "Get it on Google Play" [ref=e510] [cursor=pointer]
+          - img "Logo of Certified B Corporation" [ref=e513]
+        - generic [ref=e514]:
+          - generic [ref=e516]: © 2026 Coursera Inc. All rights reserved.
+          - list [ref=e518]:
+            - listitem [ref=e519]:
+              - link "Coursera Facebook":
+                - /url: https://www.facebook.com/Coursera
+                - generic:
+                  - img "Coursera Facebook"
+            - listitem [ref=e520]:
+              - link "Coursera LinkedIn":
+                - /url: https://www.linkedin.com/company/coursera
+                - generic:
+                  - img "Coursera LinkedIn"
+            - listitem [ref=e521]:
+              - link "Coursera Twitter":
+                - /url: https://twitter.com/coursera
+                - generic:
+                  - img "Coursera Twitter"
+            - listitem [ref=e522]:
+              - link "Coursera YouTube":
+                - /url: https://www.youtube.com/user/coursera
+                - generic:
+                  - img "Coursera YouTube"
+            - listitem [ref=e523]:
+              - link "Coursera Instagram":
+                - /url: https://www.instagram.com/coursera/
+                - generic:
+                  - img "Coursera Instagram"
+  - generic [ref=e524]:
+    - generic [ref=e525]: Source
+    - list [ref=e527]:
+      - listitem [ref=e528]:
+        - paragraph [ref=e530]:
+          - link "Advancing Higher Education with Industry Micro-Credentials, February 2023" [ref=e531] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials/
+      - listitem [ref=e532]:
+        - paragraph [ref=e534]:
+          - link "Advancing Higher Education with Industry Micro-Credentials, February 2023" [ref=e535] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials/
+      - listitem [ref=e536]:
+        - paragraph [ref=e538]:
+          - link "Advancing Higher Education with Industry Micro-Credentials, February 2023" [ref=e539] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials/
+```

@@ -1,0 +1,12 @@
+>>> Starting Test: 2026-04-01_14-40-21
+>>> Test: 1 Started.
+Total courses found: 6
+Course: Introduction to HTML, CSS, & JavaScript
+Rating: 4.4
+Duration: Beginner · Course · 1 - 4 Weeks
+----------------------------------
+Course: Meta Full Stack Developer: Front-End & Back-End from Scratch
+Rating: 4.7
+Duration: Beginner · Specialization · 3 - 6 Months
+----------------------------------
+>>> Test: 1 Done closed.

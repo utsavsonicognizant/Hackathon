@@ -1,0 +1,23 @@
+{
+  "name": "hackathon_identify-courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:smoke": "npx playwright test --grep \"@smoke\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/luxon": "^3.7.1",
+    "@types/node": "^25.3.0",
+    "allure-playwright": "^3.6.0"
+  },
+  "dependencies": {
+    "luxon": "^3.7.2"
+  }
+}

@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","90145","Test 3: Verify Coursera Campus Form Validation","chromium","2026-04-03","passed","2026-04-03","Coursera Automation Suite","Identify_Courses.spec.ts","",""
+"","17119","Test 1:Searching and Extracting Details","chromium","2026-04-03","passed","2026-04-03","Coursera Automation Suite","Identify_Courses.spec.ts","",""
+"","15432","Test 2: Extract Language and Level counts","chromium","2026-04-03","passed","2026-04-03","Coursera Automation Suite","Identify_Courses.spec.ts","",""
+"","6653","Test 2:Extract Language and Level counts","chromium","2026-04-01","passed","2026-04-01","Coursera Automation Suite","Identify_Courses.spec.ts","",""
+"","21368","Test 3:Verify Coursera Campus Form Validation","chromium","2026-04-01","passed","2026-04-01","Coursera Automation Suite","Identify_Courses.spec.ts","",""
